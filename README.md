@@ -1,0 +1,1 @@
+Uma calculadora de idade permite que o usuário insira sua data de nascimento e, em seguida, calcula quantos anos ele tem. É um projeto perfeito para quem está começando a aprender PHP e quer entender como manipular datas.![image](https://github.com/user-attachments/assets/2c9c3d04-7075-4944-95ed-8d72efe9b6dc)
